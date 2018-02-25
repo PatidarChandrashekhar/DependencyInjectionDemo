@@ -3,3 +3,8 @@ C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Models\bin\Debug\Models.pdb
 C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Models\obj\Debug\Models.dll
 C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Models\obj\Debug\Models.pdb
+C:\Shekhar\AVA\MYTEST\GIT\DependencyInjectionDemo\Models\bin\Debug\Models.dll
+C:\Shekhar\AVA\MYTEST\GIT\DependencyInjectionDemo\Models\bin\Debug\Models.pdb
+C:\Shekhar\AVA\MYTEST\GIT\DependencyInjectionDemo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Shekhar\AVA\MYTEST\GIT\DependencyInjectionDemo\Models\obj\Debug\Models.dll
+C:\Shekhar\AVA\MYTEST\GIT\DependencyInjectionDemo\Models\obj\Debug\Models.pdb
