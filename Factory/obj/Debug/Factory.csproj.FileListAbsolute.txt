@@ -1,0 +1,7 @@
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\bin\Debug\Factory.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\bin\Debug\Factory.pdb
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\bin\Debug\Models.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\bin\Debug\Models.pdb
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\obj\Debug\Factory.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\Factory\obj\Debug\Factory.pdb

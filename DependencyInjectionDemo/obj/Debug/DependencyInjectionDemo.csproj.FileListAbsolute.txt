@@ -1,0 +1,12 @@
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.exe.config
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.exe
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\DependencyInjectionDemo.pdb
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Ninject.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Ninject.xml
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.csprojResolveAssemblyReference.cache
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.exe
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\obj\Debug\DependencyInjectionDemo.pdb
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Factory.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Models.dll
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Factory.pdb
+C:\Shekhar\AVA\MYTEST\DependencyInjectionDemo\DependencyInjectionDemo\bin\Debug\Models.pdb
